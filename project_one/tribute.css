@@ -1,0 +1,70 @@
+h2 {
+  color: blue;
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+.text {
+  color: blue;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+
+.profile {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.blue-circle {
+  border-width: 10px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: blue;
+}
+
+.body {
+  font-size: 20px;
+  font-family: lobster;
+}
+
+.body-image {
+  width: 350px;
+  border-radius: 10%;
+  border-width:8px;
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to  right, rgba(0, 0, 0, 0), rgba(0, 0,     0, 0.75), rgba(0, 0, 0, 0));
+  padding: 5px;
+}
+
+.list {
+  font-size: 20px;
+  font-family: Domine; 
+}
+
+.body-end {
+  font-size: 15px;
+  font-family: Bungee Inline;
+  text-align: center;
+}
+
+.last-image {
+  width: 350px;
+  border-radius: 10%;
+  border-width:8px;
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+  margin: 120px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
