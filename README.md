@@ -9,8 +9,8 @@ This repo contains all the front end projects included on [freeCodeCamp](https:/
 
 All the projects have been added in my [codepen](https://codepen.io/ashishra0) profile.
 Soon to be added as progresss is made on freeCodeCamp.
-I have currently completed 112 of 1394 coding challenges.
-Mission is to complete till 500 by the end of this calendar year.
+I have currently completed **112** of **1394** coding challenges.
+Mission is to complete till **500** by the end of this calendar year.
 
 ### If you want to learn programming from scratch [freeCodeCamp](https://www.freecodecamp.org) is the perfect place for you.
 
