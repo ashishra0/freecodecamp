@@ -1,0 +1,129 @@
+body {
+  background: linear-gradient(to right, #000000, #434343);
+}
+
+.nav {
+  float: right;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.profile {
+  width: 250px;
+  margin: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.2px;
+  display: block;
+}
+
+.circle {
+  border-width: 10px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.description {
+  font-size: 28px;
+  font-family: 'Bungee Inline', cursive;
+  color: #fff;
+  margin: -25px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.2px;
+  text-align: center;
+}
+
+hr {
+  margin: 29px;
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.intro {
+  font-size: 20px;
+  font-family: 'Bellefair', serif;
+  color: #fff;
+}
+
+ul{ 
+  list-style-type: none;
+}
+
+.contact {
+  font-size: 23px;
+  font-family: 'Indie Flower', cursive;
+  color: #fff;
+}
+
+.left-col {
+  margin-left: 130px;
+  font-family:  ;
+  color: #fff;
+}
+
+.right-col {
+  margin-left: 300px;
+  font-family:  ;
+  color: #fff;
+}
+
+.skill {
+  font-size: 23px;
+  font-family: 'Indie Flower', cursive;
+  color: #fff;
+}
+
+.cv {
+  text-align: center;
+  margin-left: 30px;
+  font-size: 35px;
+  color: #ff69b4;
+  font-family:
+}
+
+.edu-col {
+  text-align: center;
+  
+  font-size: 23px;
+  font-family: 'Indie Flower', cursive;
+  color: #fff;
+}
+
+.blue-text {
+  display: inline-block;
+  background-color: #32cd32;
+  color: #000;
+}
+
+.label-primary {
+  padding: 1px;
+  font-family: 'Bellefair', serif;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.navbar-nav {
+  font-size: 20px;
+}
+
+.white{
+  color: #fff;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+/*Use a media query to add a breakpoint at 800px:*/
+@media (max-width:800px) {
+  .left, .main, .right {
+    width:100%; /*The width is 100%, when the viewport is 800px or smaller*/
+  }
+}
