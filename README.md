@@ -1,4 +1,4 @@
-# freeCodeCamp Projects
+# FreeCodeCamp Projects
 This is in respect to my commitment to the (#100daysofcode)[http://www.100daysofcode.com/] challenge.
 This repo contains all the front end projects included on [freeCodeCamp](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works)
 
